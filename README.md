@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr33do951. Currently just focused on learning, reason why this might all seem a bit bland atm.
-- 👀 I’m interested in gaming, sports, music, and data manipulation
+- 👀 I’m interested in gaming, sports, music, and software
 - 🌱 I’m currently learning Python
 - 💞️ I am looking to learn from the best
 - 📫 How to reach me ... salazar_alfredo1994@yahoo.com
